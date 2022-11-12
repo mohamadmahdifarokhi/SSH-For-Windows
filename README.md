@@ -6,7 +6,7 @@ summary:
 
 ### Requirements:
 
-1. nekoray -> https://github.com/MatsuriDayo/nekoray/releases/download/2.3/nekoray-2.3-2022-11-09-windows64.zip
+1. <a href="https://github.com/MatsuriDayo/nekoray/releases/download/2.3/nekoray-2.3-2022-11-09-windows64.zip">Nekoray</a>
 
 ### Step 1 - Creating new SSH
 Go to website [vpnjantit.com](https://vpanjantit.com)
