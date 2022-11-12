@@ -43,7 +43,7 @@ The Cmd must do nothing else.
          4. Port: 4002
          5. Save the proxy
 
-2. Start proxy:
+2. Start proxy
    1. Right click on the proxy and click start
    2. Click on VPN Mode at the top of the page
 
