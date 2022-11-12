@@ -51,5 +51,5 @@ Now you can enjoy the free internet.
 
 ---
 ### Note:
-### Each time you want to use this first run the SSH on "Cmd" then Start your "proxy" on Nekoray
+### Each time you want to use this first run the SSH on "Cmd" then Start your proxy on "Nekoray"
 
