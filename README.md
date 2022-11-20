@@ -9,7 +9,7 @@ summary:
 1. <a href="https://github.com/MatsuriDayo/nekoray/releases/download/2.3/nekoray-2.3-2022-11-09-windows64.zip">Nekoray</a>
 
 ### Step 1 - Creating new SSH
-Go to website [vpnjantit.com](https://vpanjantit.com)
+Go to website [vpnjantit.com](https://vpnjantit.com)
 1. Click on Free VPN SSH
 2. Create Free SSH Tunnel
 3. Choose a Country (France & Italy suggested)
